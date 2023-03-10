@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavi Villaverde</h1>
-<h3 align="center">¡Hi! I'm Xavi. Junior fullstack developer trained by @FactoriaF5-Asturias Bootcamp.</h3>
+<h3 align="center">¡Hi! I'm Xavi. Junior fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavi1594" alt="xavi1594" /></a> </p>
 
